@@ -10,6 +10,6 @@ Maker Media GmbH
 
 ![Aufmacherbild aus dem Heft](./doc/Anriss.png)
 
-Hier gibt es den Code für das Projekt im Ordner _[src](./src/)_ sowie den **[Schaltplan](./doc/Schaltplan.pdf)** als PDF im Ordner _[doc](./doc/)_. Ein ergänzender **[Online-Artikel](https://heise.de/-9717333)** beschreibt, wie man den Kolben mit Flüssigkeit füllen und RGB-LEDs für weitere Lichteffekte einbauen kann.
+Hier gibt es den Code für das Projekt im Ordner _[src](./src/)_ sowie den **[Schaltplan](./doc/Schaltplan.pdf)** als PDF im Ordner _[doc](./doc/)_. Ein ergänzender **[Online-Artikel](https://heise.de/-9717333)** beschreibt, wie man den Kolben mit Flüssigkeit füllen und RGB-LEDs für weitere Lichteffekte einbauen kann. Für den Anschluss der Wii Nunchuk ist **[diese Bibliothek](https://github.com/moefh/esp32-wii-nunchuk)** notwendig.
 
 Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 3/24 ab Seite 8](https://www.heise.de/select/make)**.
